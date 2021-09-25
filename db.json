@@ -1,0 +1,26 @@
+{
+  "streams": [
+    {
+      "title": "stream stuff",
+      "description": "streaming is cool",
+      "id": 1
+    },
+    {
+      "title": "This new stream",
+      "description": "This will be my stream",
+      "userId": "115839969701676488662",
+      "id": 2
+    },
+    {
+      "title": "This is edited stream",
+      "description": "This is better",
+      "id": 4
+    },
+    {
+      "title": "Nicoloee olleee ravioli stream",
+      "description": "more poop",
+      "userId": "115839969701676488662",
+      "id": 5
+    }
+  ]
+}
